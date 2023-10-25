@@ -1,5 +1,4 @@
 # Visiting-Card
+![dynamic_visiting_card](https://github.com/asifjahan1/Dynamic-Visiting-Card/assets/54774661/98df1327-a83c-4ce5-9eec-18d588ae2536)
 
-
-https://github.com/asifjahan1/Dynamic-Visiting-Card/assets/54774661/cd3d748f-e980-4e47-ac47-377ebdef0441
 
